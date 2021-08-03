@@ -1,7 +1,7 @@
 # amx_destroy
 A client destroy plugin for CS/HL, i coded this before for OMeGaNES.
 
-[![Discord Status](https://img.shields.io/discord/812096967714930710)](https://discord.gg/HBtf7buzv9)
+[![Discord Status](https://img.shields.io/discord/812096967714930710)](https://discord.gg/HBtf7buzv9) [![GitHub issues](https://img.shields.io/github/issues/bariscodefxy/amx_destroy)](https://github.com/bariscodefxy/amx_destroy/issues) [![GitHub forks](https://img.shields.io/github/forks/bariscodefxy/amx_destroy)](https://github.com/bariscodefxy/amx_destroy/network) [![GitHub stars](https://img.shields.io/github/stars/bariscodefxy/amx_destroy)](https://github.com/bariscodefxy/amx_destroy/stargazers) [![GitHub license](https://img.shields.io/github/license/bariscodefxy/amx_destroy)](https://github.com/bariscodefxy/amx_destroy/blob/master/LICENSE)
 
 |Project Name|Author|Current Version|AMX MOD Version|
 |--|--|--|--|
