@@ -1,7 +1,3 @@
-// PLUGIN BY bariscodefx for OMEGANES !!
-// Version 1.3
-// AAAAAAAAAAAAAAAAAAAAAAAAA
-
 #include <amxmodx>
 #include <amxmisc>
 
